@@ -27,9 +27,11 @@ Before running the application, ensure you have the following dependencies insta
 
 1. Start the Node.js server: ```npm start```
 
-2. Open your web browser and navigate to `http://localhost:3000`.
+2. Add streaming credentials to options variable.
 
-3. Click on the "Start Stream" button to begin streaming video from your device.
+3. Open your web browser and navigate to `http://localhost:3000`.
+
+4. Click on the "Start Stream" button to begin streaming video from your device.
 
 ### Running with Docker
 
